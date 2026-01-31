@@ -55,7 +55,7 @@ This project demonstrates:
 clone the project on your desired folder location cd
 
 ```bash
-git clone https://github.com/JobParado/BiteRide
+git clone https://github.com/JobParado/Clinic-Management-System
 ```
 
 
@@ -92,14 +92,15 @@ Edit the following file (turn this into ( .env) .TXT) based on your credentials 
 
 ## 🖼️ Suggested Screenshots for README
 
+
 | Section | Screenshot |
-|---------|------------|
-| Login Page | `Clinic System/img/login page.png` |
-| Account Creation | `Clinic System/img/create page.png` |
-| Doctor Dashboard | `Clinic System/img/doctor homepage.png` |
-| Receptionist Dashboard | `Clinic System/img/receptionist hoempage.png` |
-| Add Patient Form | `Clinic System/img/receptionist add page.png` |
-| `.env` Setup | `Clinic System/img/env setup.png` |
+| :--- | :--- |
+| Login Page | <img src="Clinic System/img/login page.png" width="300"> |
+| Account Creation | <img src="Clinic System/img/create page.png" width="300"> |
+| Doctor Dashboard | <img src="Clinic System/img/doctor homepage.png" width="300"> |
+| Receptionist Dashboard | <img src="Clinic System/img/receptionist hoempage.png" width="300"> |
+| Add Patient Form | <img src="Clinic System/img/receptionist add page.png" width="300"> |
+| `.env` Setup | <img src="Clinic System/img/env setup.png" width="300"> |
 
 ---
 
