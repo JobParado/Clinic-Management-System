@@ -1,0 +1,25 @@
+create table account
+(
+	username VARCHAR(50) not null,
+	password VARCHAR(500) not null,
+	account VARCHAR(50) not null
+)
+
+
+
+create table `clinicsystem`.details
+(
+	fullname VARCHAR(50) not null,
+	details VARCHAR(500) not null
+)
+
+
+create table `clinicsystem`.patient
+(
+	fullname VARCHAR(50) not null,
+	age VARCHAR(3) not null,
+	gender VARCHAR(50) not null,
+	date VARCHAR(50) not null,
+	doctor VARCHAR(50),
+	status VARCHAR(50)
+)
